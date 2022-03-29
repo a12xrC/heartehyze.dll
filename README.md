@@ -19,4 +19,4 @@ So,basecaly what i want to do to prove this concept is this:
 
 IMPORTANT
 Since the loader loads kernel32 at a different address each time the computer is restarted,we will need to DYNAMICALY retrive its base address,from PEB,so we can look for a function in the export table named LoadLibraryA, call it with "hearteyes.dll" as argument,and later retrieve the function address of MessageBoxA from user32.dll using a call to GetProcAddress.
-ALL OF THIS MUST BE DONE FROM WITHIN THE NEW PE SECTION WE'VE JUST CREATED !!!
+
