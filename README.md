@@ -1,5 +1,5 @@
 # heartehyze.dll
-![MOSHED-2022-3-22-12-59-34(1)](https://user-images.githubusercontent.com/102240206/160683020-38335246-1d36-4139-bd08-51c252ec94fe.jpg)
+![Screenshot 2022-03-31 10 12 49 PM](https://user-images.githubusercontent.com/102240206/161180998-afb1a6b3-d7e0-4ade-a39b-a6955d70f536.png)
 
 PE infector
 this is another one of my open source malwares
